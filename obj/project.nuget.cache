@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gs+hPqt0al8=",
+  "dgSpecHash": "bLJp/uHSU94=",
   "success": true,
-  "projectFilePath": "C:\\vatSys-Radar-Refresh\\RadarRefreshPlugin.csproj",
+  "projectFilePath": "C:\\Users\\maxbe\\Documents\\GitHub\\vatSys-SmoothTracks\\RadarRefreshPlugin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxbe\\.nuget\\packages\\lib.harmony\\2.4.2\\lib.harmony.2.4.2.nupkg.sha512",
     "C:\\Users\\maxbe\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",

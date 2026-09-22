@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\vatSys-Radar-Refresh\\RadarRefreshPlugin.csproj": {}
+    "C:\\Users\\maxbe\\Documents\\GitHub\\vatSys-SmoothTracks\\RadarRefreshPlugin.csproj": {}
   },
   "projects": {
-    "C:\\vatSys-Radar-Refresh\\RadarRefreshPlugin.csproj": {
+    "C:\\Users\\maxbe\\Documents\\GitHub\\vatSys-SmoothTracks\\RadarRefreshPlugin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\vatSys-Radar-Refresh\\RadarRefreshPlugin.csproj",
+        "projectUniqueName": "C:\\Users\\maxbe\\Documents\\GitHub\\vatSys-SmoothTracks\\RadarRefreshPlugin.csproj",
         "projectName": "vatsys.RadarRefreshPlugin",
-        "projectPath": "C:\\vatSys-Radar-Refresh\\RadarRefreshPlugin.csproj",
+        "projectPath": "C:\\Users\\maxbe\\Documents\\GitHub\\vatSys-SmoothTracks\\RadarRefreshPlugin.csproj",
         "packagesPath": "C:\\Users\\maxbe\\.nuget\\packages\\",
-        "outputPath": "C:\\vatSys-Radar-Refresh\\obj\\",
+        "outputPath": "C:\\Users\\maxbe\\Documents\\GitHub\\vatSys-SmoothTracks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxbe\\AppData\\Roaming\\NuGet\\NuGet.Config"
