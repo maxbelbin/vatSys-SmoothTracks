@@ -6,7 +6,7 @@ movement by interpolatingextrapolating between network position reports.
 ## Features
 
 - Smooth airborne radar tracks
-- Smooth groundASMGCS tracks
+- Smooth ground ASMGCS tracks
 - Continuous movement between network updates
 - Smoothed position corrections
 - Smoothed history trails
