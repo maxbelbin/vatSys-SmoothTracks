@@ -1,3 +1,5 @@
+<img width="3780" height="1890" alt="SmoothTracks - a vatSys Plugin" src="https://github.com/user-attachments/assets/a5197df0-5f9c-449c-98bd-485035728537" />
+
 # vatSys Smooth Tracks
 
 Experimental vatSys plugin that provides visually smoother aircraft
