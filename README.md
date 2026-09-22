@@ -182,9 +182,13 @@ It is not traditional delayed interpolation, where the display waits for a futur
 
 ## Installation
 
-1. Download the latest Smooth Tracks release.
-2. Extract the plugin folder into your vatSys plugins directory.
-3. Ensure the plugin folder contains:
+Installing Smooth Tracks is simple and does not require an installer.
+
+### 1. Download and extract the release
+
+Download the latest Smooth Tracks release ZIP from the GitHub **Releases** page and extract it.
+
+The extracted plugin folder should contain:
 
 ```text
 Smooth Tracks Plugin\
@@ -192,26 +196,63 @@ Smooth Tracks Plugin\
 └── 0Harmony.dll
 ```
 
-4. Place that folder under:
+### 2. Unblock the DLLs
+
+Windows may block DLL files downloaded from the internet. If the files are blocked, vatSys may be unable to load the plugin.
+
+Before starting vatSys:
+
+1. Right-click `vatsys.SmoothTracks.dll`.
+2. Select **Properties**.
+3. If an **Unblock** checkbox appears near the bottom of the window, tick it.
+4. Click **Apply**, then **OK**.
+5. Repeat the same process for `0Harmony.dll`.
+
+> If the **Unblock** option is not shown, the file is not currently blocked and no action is required.
+
+You can also unblock the downloaded ZIP **before extracting it** by opening the ZIP's **Properties**, ticking **Unblock**, and then extracting the files.
+
+### 3. Copy the plugin into vatSys
+
+Copy the entire **Smooth Tracks Plugin** folder into:
 
 ```text
 <vatSys installation>\bin\Plugins\
 ```
 
-For a standard vatSys installation this will normally be under:
+For a standard vatSys installation this will normally be:
 
 ```text
 C:\Program Files (x86)\vatSys\bin\Plugins\
 ```
 
-5. Restart vatSys.
-6. Open:
+The final structure should look similar to:
+
+```text
+C:\Program Files (x86)\vatSys\bin\Plugins\
+└── Smooth Tracks Plugin\
+    ├── vatsys.SmoothTracks.dll
+    └── 0Harmony.dll
+```
+
+### 4. Start vatSys
+
+Start or restart vatSys, then open:
 
 ```text
 Tools → Smooth Tracks
 ```
 
 The plugin should also appear as **Smooth Tracks** in vatSys's plugin/about information.
+
+### If Smooth Tracks does not appear
+
+Check that:
+
+- `vatsys.SmoothTracks.dll` and `0Harmony.dll` are both inside the same plugin folder.
+- The plugin folder is directly inside `vatSys\bin\Plugins\`.
+- Both DLLs have been **unblocked** if Windows shows the option.
+- vatSys was fully restarted after installing or updating the plugin.
 
 ---
 
