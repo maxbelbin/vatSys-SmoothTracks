@@ -1,0 +1,11 @@
+C:\vatSys-Radar-Refresh\bin\Release\net472\vatsys.RadarRefreshPlugin.dll
+C:\vatSys-Radar-Refresh\bin\Release\net472\vatsys.RadarRefreshPlugin.pdb
+C:\vatSys-Radar-Refresh\bin\Release\net472\0Harmony.dll
+C:\vatSys-Radar-Refresh\obj\Release\net472\RadarRefreshPlugin.csproj.AssemblyReference.cache
+C:\vatSys-Radar-Refresh\obj\Release\net472\RadarRefreshPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\vatSys-Radar-Refresh\obj\Release\net472\RadarRefreshPlugin.AssemblyInfoInputs.cache
+C:\vatSys-Radar-Refresh\obj\Release\net472\RadarRefreshPlugin.AssemblyInfo.cs
+C:\vatSys-Radar-Refresh\obj\Release\net472\RadarRefreshPlugin.csproj.CoreCompileInputs.cache
+C:\vatSys-Radar-Refresh\obj\Release\net472\RadarRef.4A4230FB.Up2Date
+C:\vatSys-Radar-Refresh\obj\Release\net472\vatsys.RadarRefreshPlugin.dll
+C:\vatSys-Radar-Refresh\obj\Release\net472\vatsys.RadarRefreshPlugin.pdb
