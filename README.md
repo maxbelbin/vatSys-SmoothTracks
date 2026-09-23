@@ -193,7 +193,8 @@ The extracted plugin folder should contain:
 ```text
 Smooth Tracks Plugin\
 ├── vatsys.SmoothTracks.dll
-└── 0Harmony.dll
+├── 0Harmony.dll
+└── SmoothTracksBanner.png
 ```
 
 ### 2. Unblock the DLLs
@@ -232,7 +233,8 @@ The final structure should look similar to:
 C:\Program Files (x86)\vatSys\bin\Plugins\
 └── Smooth Tracks Plugin\
     ├── vatsys.SmoothTracks.dll
-    └── 0Harmony.dll
+    ├── 0Harmony.dll
+    └── SmoothTracksBanner.png
 ```
 
 ### 4. Start vatSys
@@ -249,7 +251,7 @@ The plugin should also appear as **Smooth Tracks** in vatSys's plugin/about info
 
 Check that:
 
-- `vatsys.SmoothTracks.dll` and `0Harmony.dll` are both inside the same plugin folder.
+- `vatsys.SmoothTracks.dll`, `0Harmony.dll` and `SmoothTracksBanner.png` are all inside the same plugin folder.
 - The plugin folder is directly inside `vatSys\bin\Plugins\`.
 - Both DLLs have been **unblocked** if Windows shows the option.
 - vatSys was fully restarted after installing or updating the plugin.
@@ -268,11 +270,24 @@ with the DLL from the new release.
 
 `0Harmony.dll` only needs to be replaced when the Harmony dependency included with the release changes.
 
+If a release includes an updated `SmoothTracksBanner.png`, replace that file as well.
+
 Your settings remain stored separately under `%LOCALAPPDATA%`.
 
 ---
 
 ## Building from source
+
+The main source and project files are now:
+
+```text
+vatSys-SmoothTracks\
+├── SmoothTracks.cs
+├── SmoothTracksPlugin.csproj
+└── SmoothTracksBanner.png
+```
+
+`SmoothTracks.cs` contains the plugin source code, while `SmoothTracksPlugin.csproj` is the project file used for building. The compiled assembly name remains `vatsys.SmoothTracks.dll`.
 
 Smooth Tracks currently targets:
 
