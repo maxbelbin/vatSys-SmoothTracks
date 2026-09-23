@@ -1,0 +1,8 @@
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\net472\SmoothTracksPlugin.csproj.AssemblyReference.cache
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\net472\SmoothTracksPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\net472\SmoothTracksPlugin.AssemblyInfoInputs.cache
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\net472\SmoothTracksPlugin.AssemblyInfo.cs
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\net472\SmoothTracksPlugin.csproj.CoreCompileInputs.cache
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\net472\SmoothTracksPlugin.sourcelink.json
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\net472\vatsys.RadarRefreshPlugin.dll
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\net472\vatsys.RadarRefreshPlugin.pdb

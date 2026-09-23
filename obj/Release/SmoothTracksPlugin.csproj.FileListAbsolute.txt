@@ -1,0 +1,12 @@
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\SmoothTracksPlugin.csproj.AssemblyReference.cache
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\SmoothTracksPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\SmoothTracksPlugin.AssemblyInfoInputs.cache
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\SmoothTracksPlugin.AssemblyInfo.cs
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\SmoothTracksPlugin.csproj.CoreCompileInputs.cache
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\SmoothTracksPlugin.sourcelink.json
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\bin\Release\net472\vatsys.SmoothTracks.dll
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\bin\Release\net472\vatsys.SmoothTracks.pdb
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\bin\Release\net472\0Harmony.dll
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\SmoothTr.F7D84617.Up2Date
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\vatsys.SmoothTracks.dll
+C:\Users\maxbe\Documents\GitHub\vatSys-SmoothTracks\obj\Release\vatsys.SmoothTracks.pdb

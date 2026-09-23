@@ -11,7 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("vatsys.RadarRefreshPlugin")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53ea492dbe672c01e11c47791e6fc089cc31aa26")]
 [assembly: System.Reflection.AssemblyProductAttribute("vatsys.RadarRefreshPlugin")]
